@@ -1,3 +1,5 @@
+# https://docs.gitlab.com/ce/ci/yaml/README.html#gitlab-ci-yml
+
 image: ruby:2.1
 services:
   - postgres
